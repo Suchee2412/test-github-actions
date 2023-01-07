@@ -1,0 +1,28 @@
+{
+  "name": "@suchee2412/test-github-actions",
+  "version": "1.0.0",
+  "description": "this is to test github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suchee2412/test-github-actions.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suchee2412/test-github-actions/issues"
+  },
+  "homepage": "https://github.com/Suchee2412/test-github-actions#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
