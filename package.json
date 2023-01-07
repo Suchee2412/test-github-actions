@@ -1,6 +1,6 @@
 {
   "name": "@suchee2412/test-github-actions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is to test github packages",
   "main": "index.js",
   "scripts": {
